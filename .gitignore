@@ -1,0 +1,6 @@
+# Ignorar pastas
+static/
+templates/
+
+# Ignorar arquivo
+app.py
